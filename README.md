@@ -1,2 +1,2 @@
 # dalim
-Webschool git class
+Webschool GitHub repo for homework assignments and projects 
